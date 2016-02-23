@@ -3,6 +3,9 @@ Version 1.0 (Release)
 Unity Summer of Code 2009
 By Sándor Moldán
 
+Forked by Richard 'Languard' Fleming
+2016
+
 Installation instructions:
 
 Open the Unity project you wish to use the Terrain Toolkit in and double click "TerrainToolkit_v1.0.unitypackage" to import it into your project. You may need to unzip it first.
@@ -25,4 +28,4 @@ Documentation:
 
 Full documentation is included with the terrain toolkit in HTML format. Simply unzip the Documentation.zip file in the TerrainToolkit directory to your preferred location.
 
-The latest version of the documentation is maintained online here: http://www.sixtimesnothing.com/terraintoolkit
+The latest version of the documentation is maintained online here: https://github.com/languard/unityterraintoolkit/wiki
